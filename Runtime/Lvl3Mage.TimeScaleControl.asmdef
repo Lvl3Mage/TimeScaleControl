@@ -1,0 +1,16 @@
+{
+    "name": "Lvl3Mage.TimeScaleControl",
+    "rootNamespace": "Lvl3Mage.TimeScaleControl",
+    "references": [
+        "GUID:9d1125880b544be46a31f27ad963917e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

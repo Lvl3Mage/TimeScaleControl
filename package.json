@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.lvl3mage.com.lvl3mage.timescale-control",
+  "version": "1.0.0",
+  "displayName": "Timescale Control",
+  "description": "A package that simplifies the management of the Time.timeScale variable in Unity.",
+  "unity": "2021.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvl3mage/TimeScaleControl.git"
+  },
+  "keywords": [
+  ],
+  "author": "lvl3mage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvl3mage/TimeScaleControl/issues"
+  },
+  "homepage": "https://github.com/lvl3mage/TimeScaleControl#readme"
+}
