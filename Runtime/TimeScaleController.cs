@@ -11,7 +11,7 @@ namespace Lvl3Mage.TimeScaleControl
 	/// Manages the timescale of the game, automatically adjusting the fixedDeltaTime as needed.
 	/// Unless otherwise specified, resets the timescale to the default value when a new scene is loaded. Use <see cref="ToggleSceneTimeReset"/> to change this behavior.
 	/// </summary>
-	public static class TimeController
+	public static class TimeScaleController
 	{
 		
 		static readonly float RealPhysicsTime = Time.fixedDeltaTime;
@@ -27,7 +27,7 @@ namespace Lvl3Mage.TimeScaleControl
 		{
 			resetOnSceneLoad = value;
 		}
-		static TimeController()
+		static TimeScaleController()
 		{
 			SceneManager.sceneLoaded += (_, _) => {
 				if (!resetOnSceneLoad){
