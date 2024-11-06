@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.lvl3mage.timescale-control",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "displayName": "Timescale Control",
   "description": "A package that simplifies the management of the Time.timeScale variable in Unity.",
   "unity": "2021.3",
@@ -11,7 +11,7 @@
   "keywords": [
   ],
   "dependencies": {
-    "com.lvl3mage.coroutine-toolkit": "1.0.3"
+    "com.lvl3mage.coroutine-toolkit": "1.0.4"
   },
   "author": "lvl3mage",
   "license": "MIT",
